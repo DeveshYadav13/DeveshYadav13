@@ -293,7 +293,7 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
 <!--Snake Graph--> 
 <!--<img src="https://github.com/DeveshYadav13/DeveshYadav13/blob/main/dist/snake.svg" alt="Snake animation" />--> 
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+![Snake animation](https://github.com/{{DeveshYadav13}}/{{DeveshYadav13}}/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Holopins --> 
 [![An image of @deveshyadav13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveshyadav13)](https://holopin.io/@deveshyadav13)
