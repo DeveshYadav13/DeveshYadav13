@@ -291,7 +291,9 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
 # [<img alt = "3D Contri-Graph" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/profile-3d-contrib/profile-night-rainbow.svg" width = 600>](https://github.com/DeveshYadav13)
 
 <!--Snake Graph--> 
-<img src="https://github.com/DeveshYadav13/DeveshYadav13/blob/main/dist/snake.svg" alt="Snake animation" />
+<!--<img src="https://github.com/DeveshYadav13/DeveshYadav13/blob/main/dist/snake.svg" alt="Snake animation" />--> 
+
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
 
 <!-- Holopins --> 
 [![An image of @deveshyadav13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveshyadav13)](https://holopin.io/@deveshyadav13)
