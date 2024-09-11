@@ -15,24 +15,24 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
 
 # <b>Learning Platforms 📚:-</b>
 <p align="left"> 
-<!-- GeeksForGeeks -->
- <a
-    href=https://auth.geeksforgeeks.org/user/deveshamway/practice/
-    target="_blank">
-    <img 
-        src="https://raw.githubusercontent.com/DeveshYadav13/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-        alt="gfg" height="30" width="50" 
-    />
- </a> 
  <!-- LeetCode -->
  <a 
-    href=https://leetcode.com/Runtime__Terror_/
+    href=https://leetcode.com/TLE_/
     target="blank">
     <img 
         src="https://raw.githubusercontent.com/DeveshYadav13/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="leetcode" height="30" width = "50"
     />
  </a>
+  <!-- GeeksForGeeks -->
+ <a
+    href=https://www.geeksforgeeks.org/user/deveshyadav13/
+    target="_blank">
+    <img 
+        src="https://raw.githubusercontent.com/DeveshYadav13/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+        alt="gfg" height="30" width="50" 
+    />
+ </a> 
  <!-- MS-Learn -->
  <!-- <a
     href=https://docs.microsoft.com/en-us/users/rishabh2804/
@@ -296,7 +296,7 @@ src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resour
 
 
 <!-- Holopins --> 
-[![An image of @deveshyadav13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveshyadav13)](https://holopin.io/@deveshyadav13)
+<!--[![An image of @deveshyadav13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deveshyadav13)](https://holopin.io/@deveshyadav13)--> 
 
 <!-- Profile Views --> 
 ![Profile Views](https://komarev.com/ghpvc/?username=DeveshYadav13&color=blueviolet&style=flat-square&label=Profile+Views)
