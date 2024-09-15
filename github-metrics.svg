@@ -60,7 +60,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.7583846680355926 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.6071184120465336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -124,7 +124,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.30m out of 144m users</span>
+                                    <span class="gh">ranked 3.31m out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">19</div>
                                     </div>
@@ -259,7 +259,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.69m out of 144m users</span>
+                                    <span class="gh">ranked 1.69m out of 142m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -497,7 +497,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.37m out of 219m repositories</span>
+                                    <span class="gh">ranked 5.38m out of 217m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -568,13 +568,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.19594454724759" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="124.19594454724759" y="0" width="121.94345231527745" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="246.13939686252502" y="0" width="95.22725099484373" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="341.3666478573688" y="0" width="92.89887007608833" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="434.2655179334571" y="0" width="21.996601716795023" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.2621196502521" y="0" width="3.7180622850459777" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="459.9801819352981" y="0" width="0.019818064701883138" height="8" fill="#3B2F63"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="123.86573380256007" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="123.86573380256007" y="0" width="121.61923047095246" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="245.48496427351256" y="0" width="94.97406187840208" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="340.4590261519146" y="0" width="92.65187163197422" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="433.11089778388884" y="0" width="23.161160099518547" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.2720578834074" y="0" width="3.708176743932575" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="459.98023462733994" y="0" width="0.019765372660067032" height="8" fill="#3B2F63"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -587,7 +587,7 @@
                             </div>
                             <small>
                                 <div>256 kB</div>
-                                <div>27%</div>
+                                <div>26.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -599,7 +599,7 @@
                             </div>
                             <small>
                                 <div>197 kB</div>
-                                <div>20.7%</div>
+                                <div>20.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -610,8 +610,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>45.5 kB</div>
-                                <div>4.78%</div>
+                                <div>48 kB</div>
+                                <div>5.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -637,7 +637,7 @@
                             </div>
                             <small>
                                 <div>252 kB</div>
-                                <div>26.51%</div>
+                                <div>26.44%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -649,7 +649,7 @@
                             </div>
                             <small>
                                 <div>192 kB</div>
-                                <div>20.2%</div>
+                                <div>20.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
